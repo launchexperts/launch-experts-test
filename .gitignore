@@ -1,0 +1,9 @@
+# Claude / local tooling
+.claude/
+.DS_Store
+Thumbs.db
+
+# OS junk
+*.log
+*.tmp
+node_modules/
